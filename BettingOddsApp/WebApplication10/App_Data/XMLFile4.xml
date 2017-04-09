@@ -1,0 +1,31 @@
+﻿<xmlsports xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" createdate="2017-04-09T17:59:27.1436742Z">
+  <sport name="Basketball" id="1172">
+    <event name="Belgium, BLB" id="28017" islive="false" categoryid="3619">
+      <match name="Kangoeroes Basket Willebroek - Antwerp Giants" id="905944" startdate="2017-04-08T18:30:00" matchtype="PreMatch"></match>
+      <match name="Belfius Mons Hainaut - Telenet Oostende" id="905945" startdate="2017-04-08T18:30:00" matchtype="PreMatch"></match>
+      <match name="Stella Artois Leuven Bears - Hubo Limburg United" id="905946" startdate="2017-04-08T18:30:00" matchtype="PreMatch"></match>
+    </event>
+    <event name="NBA, NBA" id="17863" islive="true" categoryid="4998">
+      <match name="Charlotte Hornets - Boston Celtics" id="925106" startdate="2017-04-08T22:05:00" matchtype="Live">
+        <bet name="Match Winner" id="9069528" islive="true">
+          <odd name="1" id="50572457" value="4.19"></odd>
+          <odd name="2" id="50534567" value="4.19"></odd>
+          <odd name="3" id="50523267" value="4.19"></odd>
+        </bet>
+        <bet name="Match Winner" id="9069326" islive="true"></bet>
+      </match>
+      <match name="Washington Wizards - Miami Heat" id="925114" startdate="2017-04-08T23:05:00" matchtype="Live">
+        <bet name="Match Winner" id="9069877" islive="true"></bet>
+        <bet name="Match Winner" id="9069660" islive="true"></bet>
+      </match>
+    </event>
+  </sport>
+  <sport name="Soccer" id="1165">
+    <event name="Argentina, Primera B Nacional" id="22371" islive="false" categoryid="4580">
+      <match name="Flandria - Guillermo Brown" id="900658" startdate="2017-04-08T18:30:00" matchtype="PreMatch"></match>
+    </event>
+    <event name="Colombia, Primera B" id="22500" islive="false" categoryid="4608">
+      <match name="Cucuta Deportivo - Valledupar FC" id="919447" startdate="2017-04-08T19:00:00" matchtype="PreMatch"></match>
+    </event>
+  </sport>
+</xmlsports>

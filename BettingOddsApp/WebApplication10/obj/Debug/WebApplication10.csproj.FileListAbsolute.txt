@@ -1,0 +1,103 @@
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\roslyn\csc.exe
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\roslyn\System.Collections.Immutable.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\roslyn\vbc.exe
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe.config
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\WebApplication10.dll.config
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\WebApplication10.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\DemoHelper.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\Microsoft.Web.Infrastructure.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\System.Web.Helpers.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\System.Web.Mvc.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\System.Web.Razor.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\System.Web.Webpages.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\DemoHelper.pdb
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\System.Web.Razor.xml
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\System.Web.Webpages.xml
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.xml
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.xml
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\System.Web.Helpers.xml
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\bin\System.Web.Mvc.xml
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\obj\Debug\WebApplication10.csprojResolveAssemblyReference.cache
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+c:\users\win\documents\visual studio 2015\Projects\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.csprojResolveAssemblyReference.cache
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\roslyn\csc.exe
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\roslyn\vbc.exe
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\WebApplication10.dll.config
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\WebApplication10.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\DemoHelper.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\System.Web.Helpers.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\System.Web.Mvc.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\System.Web.Razor.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\System.Web.Webpages.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.dll
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\DemoHelper.pdb
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\System.Web.Razor.xml
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\System.Web.Webpages.xml
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.xml
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.xml
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\System.Web.Helpers.xml
+C:\Users\win\Desktop\Read XML (Sport + Event)\WebApplication10\WebApplication10\bin\System.Web.Mvc.xml
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.csprojResolveAssemblyReference.cache
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\roslyn\csc.exe
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\roslyn\vbc.exe
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\WebApplication10.dll.config
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\WebApplication10.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\System.Web.Helpers.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\System.Web.Mvc.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\System.Web.Razor.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.dll
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\System.Web.Razor.xml
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.xml
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.xml
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.xml
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\System.Web.Helpers.xml
+C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\bin\System.Web.Mvc.xml

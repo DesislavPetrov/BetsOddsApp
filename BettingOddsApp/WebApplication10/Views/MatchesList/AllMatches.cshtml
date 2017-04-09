@@ -1,0 +1,54 @@
+﻿@using Models;
+@model IEnumerable<Models.Match>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>All Matches</h2>
+<table class="table table-striped">
+    <tr>
+        <th>Sport</th>
+        <th>Country</th>
+        <th>Tournament</th>
+        <th>Match Name</th>
+        <th>Start Date</th>
+        <th>Parsed Start Date</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Ev.Sport.Name)</td>
+            <td>@Html.DisplayFor(modelItem => item.Ev.Country)</td>
+            <td>@Html.DisplayFor(modelItem => item.Ev.Tournament)</td>
+            <td>@Html.DisplayFor(modelItem => item.Name)</td>
+            <td>@Html.DisplayFor(modelItem => item.StartDate)</td>
+            <td>@Html.DisplayFor(modelItem => item.ParsedDateAndTime)</td>
+        </tr>
+        
+        if (item.GetBetsCountForOneMatch() > 0)
+        {
+            foreach (var bet in item.BetsList)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => bet.Name)</td>
+                    <td>@Html.DisplayFor(modelItem => bet.Id)</td>
+                </tr>
+
+                if (bet.GetOddsCountForOneBet() > 0)
+                {
+                    foreach (var odd in bet.OddsList)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => odd.Name)</td>
+                            <td>@Html.DisplayFor(modelItem => odd.Id)</td>
+                            <td>@Html.DisplayFor(modelItem => odd.Value)</td>
+                        </tr>
+                    }
+                }
+            }
+        }
+
+    }
+</table>
+

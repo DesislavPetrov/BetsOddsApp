@@ -1,0 +1,30 @@
+﻿@using Models;
+@model IEnumerable<Models.Match>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Matches which will start next 24 hours</h2>
+<table class="table table-striped">
+    <tr>
+        <th>Sport</th>
+        <th>Country</th>
+        <th>Tournament</th>
+        <th>Match Name</th>
+        <th>Start Date</th>
+        <th>Parsed Start Date</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Ev.Sport.Name)</td>
+            <td>@Html.DisplayFor(modelItem => item.Ev.Country)</td>
+            <td>@Html.DisplayFor(modelItem => item.Ev.Tournament)</td>
+            <td>@Html.DisplayFor(modelItem => item.Name)</td>
+            <td>@Html.DisplayFor(modelItem => item.StartDate)</td>
+            <td>@Html.DisplayFor(modelItem => item.ParsedDateAndTime)</td>
+        </tr>
+    }
+</table>
+
