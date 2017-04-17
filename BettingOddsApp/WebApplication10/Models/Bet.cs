@@ -16,6 +16,11 @@ namespace Models
             this.Match = match;
         }
 
+        public Bet()
+        {
+
+        }
+
         public string Name { get; set; }
         public string Id { get; set; }
         public bool IsLive { get; set; }

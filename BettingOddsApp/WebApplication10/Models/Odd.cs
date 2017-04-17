@@ -21,6 +21,11 @@
             this.Value = value;
             this.Bet = bet;
         }
+
+        public Odd()
+        {
+
+        }
         public string Name { get; set; }
         public string Id { get; set; }
         public float Value { get; set; }

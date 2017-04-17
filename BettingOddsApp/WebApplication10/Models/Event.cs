@@ -5,7 +5,7 @@ namespace Models
 {
     public class Event
     {
-        private List<Match> MatchesList = new List<Match>();
+        public List<Match> MatchesList = new List<Match>();
         public Event(string name, string id, bool isLive, string categoryId, Sport sport)
         {
             this.Name = name;

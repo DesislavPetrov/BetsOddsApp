@@ -31,3 +31,244 @@ C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication
 C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
 C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
 C:\Users\win\Desktop\07. ParsedDateTime + Sport + Ecvent (stable)\WebApplication10\WebApplication10\obj\Debug\BettingOddsApp.csprojResolveAssemblyReference.cache
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\roslyn\csc.exe
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\roslyn\vbc.exe
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\WebApplication10.dll.config
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\WebApplication10.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\EntityFramework.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\EntityFramework.SqlServer.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\System.Web.Helpers.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\System.Web.Mvc.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\System.Web.Razor.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\EntityFramework.xml
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\EntityFramework.SqlServer.xml
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\System.Web.Razor.xml
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.xml
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.xml
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.xml
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\System.Web.Helpers.xml
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\bin\System.Web.Mvc.xml
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\obj\Debug\BettingOddsApp.csprojResolveAssemblyReference.cache
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+C:\Users\win\Desktop\11. Added bets and odds (stable)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\obj\Debug\BettingOddsApp.csprojResolveAssemblyReference.cache
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\roslyn\csc.exe
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\roslyn\vbc.exe
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\WebApplication10.dll.config
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\WebApplication10.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Antlr3.Runtime.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\EntityFramework.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\EntityFramework.SqlServer.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Microsoft.Owin.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Microsoft.Owin.Security.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Newtonsoft.Json.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Owin.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Net.Http.Formatting.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Helpers.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Http.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Http.WebHost.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Mvc.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Optimization.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Razor.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\WebGrease.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Antlr3.Runtime.pdb
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\EntityFramework.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\EntityFramework.SqlServer.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Microsoft.Owin.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Microsoft.Owin.Security.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Newtonsoft.Json.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Net.Http.Formatting.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Http.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Http.WebHost.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Optimization.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Razor.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Helpers.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\System.Web.Mvc.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Common.Logging.Core.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Common.Logging.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Quartz.dll
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Common.Logging.pdb
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Common.Logging.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Common.Logging.Core.pdb
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Common.Logging.Core.xml
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Quartz.pdb
+C:\Users\win\Desktop\12. Read data from Database (stable)\WebApplication10\WebApplication10\bin\Quartz.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\obj\Debug\BettingOddsApp.csprojResolveAssemblyReference.cache
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\roslyn\csc.exe
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\roslyn\vbc.exe
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\WebApplication10.dll.config
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\WebApplication10.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Antlr3.Runtime.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Common.Logging.Core.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Common.Logging.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\EntityFramework.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\EntityFramework.SqlServer.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Microsoft.Owin.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Microsoft.Owin.Security.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Newtonsoft.Json.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Owin.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Net.Http.Formatting.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Helpers.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Http.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Http.WebHost.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Mvc.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Optimization.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Razor.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\WebGrease.dll
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Antlr3.Runtime.pdb
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Common.Logging.pdb
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Common.Logging.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Common.Logging.Core.pdb
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Common.Logging.Core.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\EntityFramework.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\EntityFramework.SqlServer.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Microsoft.Owin.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Microsoft.Owin.Security.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\Newtonsoft.Json.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Net.Http.Formatting.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Http.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Http.WebHost.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Optimization.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Razor.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Helpers.xml
+C:\Users\win\Desktop\14. Full SignalR Functionality (stable)\WebApplication10\WebApplication10\bin\System.Web.Mvc.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\roslyn\csc.exe
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\roslyn\vbc.exe
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\WebApplication10.dll.config
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\WebApplication10.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\WebApplication10.pdb
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Antlr3.Runtime.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Common.Logging.Core.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Common.Logging.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\EntityFramework.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\EntityFramework.SqlServer.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Microsoft.Owin.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Microsoft.Owin.Security.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Newtonsoft.Json.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Owin.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Net.Http.Formatting.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Helpers.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Http.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Http.WebHost.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Mvc.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Optimization.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Razor.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Webpages.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\WebGrease.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Antlr3.Runtime.pdb
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Common.Logging.pdb
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Common.Logging.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Common.Logging.Core.pdb
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Common.Logging.Core.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\EntityFramework.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\EntityFramework.SqlServer.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Microsoft.Owin.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Microsoft.Owin.Security.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\Newtonsoft.Json.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Net.Http.Formatting.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Http.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Http.WebHost.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Optimization.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Razor.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Webpages.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Webpages.Deployment.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Webpages.Razor.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Helpers.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\bin\System.Web.Mvc.xml
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\obj\Debug\BettingOddsApp.csprojResolveAssemblyReference.cache
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\obj\Debug\WebApplication10.dll
+C:\Users\win\Desktop\14.1. deleted unnecessarily files\WebApplication10\WebApplication10\obj\Debug\WebApplication10.pdb

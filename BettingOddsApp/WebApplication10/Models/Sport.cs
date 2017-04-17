@@ -11,6 +11,11 @@ namespace Models
             this.Name = name;
             this.Id = id;
         }
+
+        public Sport()
+        {
+
+        }
         public string Name { get; set; }
         public string Id { get; set; }
         public int NumberOfChildNodes { get; set; }

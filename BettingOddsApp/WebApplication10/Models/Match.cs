@@ -15,6 +15,11 @@ namespace Models
             this.Ev = ev;
             this.ParsedDateAndTime = ParseDateAndTime(startDate);
         }
+
+        public Match()
+        {
+
+        }
         public string Name { get; set; }
         public string Id { get; set; }
         public string StartDate { get; set; }

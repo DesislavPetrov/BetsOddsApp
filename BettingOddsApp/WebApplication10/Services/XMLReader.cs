@@ -2,8 +2,10 @@
 using System.Web;
 using System.Xml;
 using System;
+using Models;
+using System.Timers;
 
-namespace Models
+namespace WebApplication10.Services
 {
     public class XMLReader
     {
